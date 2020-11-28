@@ -1,0 +1,19 @@
+ div{
+    height: 200px;
+    width: 200px;
+ }
+ 
+ #one{
+   background-color: brown;
+   border-width: 5px;
+   border-style: solid;
+   box-sizing: border-box;
+}
+
+#two{
+    background-color: cornflowerblue;
+}
+
+#three{
+    background-color: darkgreen;
+} 
