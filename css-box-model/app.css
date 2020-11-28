@@ -1,3 +1,14 @@
+ /* Belajar Border & Border Radius 
+    Border Properties (the important ones)
+
+    1. border-width
+       controls the thisckness of the border
+    2. border-color
+       controls the ... color of the border
+    3. border-style
+       controls the line style - dashed, solid, etc.
+ */
+ 
  div{
     height: 200px;
     width: 200px;
