@@ -7,8 +7,15 @@
        controls the ... color of the border
     3. border-style
        controls the line style - dashed, solid, etc.
+
  */
  
+h1{
+   background-color: darkorange;
+   width: 200px;
+   padding-left: 10px;
+}
+
  div{
     height: 200px;
     width: 200px;
@@ -28,3 +35,7 @@
 #three{
     background-color: darkgreen;
 } 
+
+button{
+   padding: 10px ;
+}
