@@ -17,6 +17,7 @@ h1{
 }
 
  div{
+    margin-top: 10px;
     height: 200px;
     width: 200px;
  }
@@ -36,6 +37,17 @@ h1{
     background-color: darkgreen;
 } 
 
+/* Apply to all four side
+   padding: 10 px; 
+   
+   vertival|horizontal
+   padding: 5px 10px;
+   
+   top | horizontal | bottom
+   padding: 1px 2px 2px
+   
+   top | right | bottom | left
+   padding: 5px 1px 0 2px;*/
 button{
    padding: 10px ;
 }
