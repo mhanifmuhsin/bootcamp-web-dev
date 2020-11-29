@@ -16,10 +16,22 @@ h1{
    padding-left: 10px;
 }
 
+/* Apply to all four side
+   margin: 10 px; 
+   
+   vertival|horizontal
+   margin: 5px 10px;
+   
+   top | horizontal | bottom
+   margin: 1px 2px 2px
+   
+   top | right | bottom | left
+   margin: 5px 1px 0 2px;*/
  div{
     margin-top: 10px;
     height: 200px;
     width: 200px;
+    display: inline-block;
  }
  
  #one{
