@@ -27,6 +27,8 @@ h1{
    
    top | right | bottom | left
    margin: 5px 1px 0 2px;*/
+
+   /* add display : inline */
  div{
     margin-top: 10px;
     height: 200px;
